@@ -15,7 +15,7 @@ class Robot extends Component {
   }
 
   componentDidMount() {
-    fetch("http://jsonplaceholder.typicode.com/users").then(response =>
+    fetch("https://jsonplaceholder.typicode.com/users").then(response =>
       response.json().then(json => this.setState({ robots: json }))
     )
   }
