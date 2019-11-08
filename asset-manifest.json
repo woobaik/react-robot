@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-robot/static/css/main.4c139018.chunk.css",
+    "main.js": "/react-robot/static/js/main.8ee8e6b3.chunk.js",
+    "main.js.map": "/react-robot/static/js/main.8ee8e6b3.chunk.js.map",
+    "runtime-main.js": "/react-robot/static/js/runtime-main.dff651f6.js",
+    "runtime-main.js.map": "/react-robot/static/js/runtime-main.dff651f6.js.map",
+    "static/js/2.ea1d0765.chunk.js": "/react-robot/static/js/2.ea1d0765.chunk.js",
+    "static/js/2.ea1d0765.chunk.js.map": "/react-robot/static/js/2.ea1d0765.chunk.js.map",
+    "index.html": "/react-robot/index.html",
+    "precache-manifest.5fa8fec24a3edf70e2e1b489b9647d02.js": "/react-robot/precache-manifest.5fa8fec24a3edf70e2e1b489b9647d02.js",
+    "service-worker.js": "/react-robot/service-worker.js",
+    "static/css/main.4c139018.chunk.css.map": "/react-robot/static/css/main.4c139018.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dff651f6.js",
+    "static/js/2.ea1d0765.chunk.js",
+    "static/css/main.4c139018.chunk.css",
+    "static/js/main.8ee8e6b3.chunk.js"
+  ]
+}
