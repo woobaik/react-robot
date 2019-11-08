@@ -8,7 +8,7 @@ const InputBox = props => {
       className={classes.input}
       value={props.value}
       onChange={props.inputChange}
-      placeholder='Enter Robot Name!!'
+      placeholder='Enter Robot Name!!!'
     ></input>
   )
 }
