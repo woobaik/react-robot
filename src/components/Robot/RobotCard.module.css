@@ -1,0 +1,9 @@
+.RobotCard {
+  width: 25%;
+  margin: 1rem;
+  text-align: center;
+}
+
+.title {
+  padding: 1rem;
+}

@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.app-title {
+  text-align: center;
+  transition: all 1s ease-in-out;
+}
+
+.app-title:hover {
+  color: brown;
+}
